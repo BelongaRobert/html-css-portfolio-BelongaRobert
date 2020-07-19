@@ -36,7 +36,7 @@ nav {
     flex-wrap: wrap;
     width: 100%;
 }
-.project-1 > source{
+.project-1  {
     display: block;
     max-width: 5px;
     max-height: 5px;
